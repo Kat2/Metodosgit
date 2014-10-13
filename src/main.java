@@ -6,6 +6,7 @@
 			// TODO Auto-generated method stub
 		
 			String name = "eclipse";
+			String jota = "null";
 			for (int i = 1; i < 100; i = i + 2) {
 				System.out.println("Contador xxxxx!");
 				System.out.println("teste");
