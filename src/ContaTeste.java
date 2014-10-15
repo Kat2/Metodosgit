@@ -10,7 +10,7 @@ public class ContaTeste {
 		int num = 5;
 		String num2 = "";
 		Contador c = new Contador();
-		num2 = c.ContaPares(num);
+		num2 = c.ContaImpares(num);
 		assertEquals("números pares", num2);
 	}
 
